@@ -3,7 +3,7 @@
 ## Project Overview
 A web-based mental health companion chatbot that leverages Google's Gemini AI to provide empathetic and supportive conversations in real-time. The application offers a comfortable space for users to share their thoughts and receive compassionate responses.
 
-## [Website Link] (https://princekumar0509.github.io/CARE-COMPANION/)
+## [Website Link](https://princekumar0509.github.io/CARE-COMPANION/)
 
 ## Project Objectives
 1. Create an accessible mental health support platform using web technologies
