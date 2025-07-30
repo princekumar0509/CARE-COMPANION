@@ -1,4 +1,4 @@
-const apiKey = "AIzaSyAuY9zy8fdp8Jo3PDstVHN_SyLEMh1SQmo";
+const apiKey = "AIzaSyAt-eRToQcVM6ekZvMGhpvMTVwGlEg_Pbs";
 const apiUrl = "https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent";
 
 let isProcessing = false;
